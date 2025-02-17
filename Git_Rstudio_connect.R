@@ -2,7 +2,11 @@
 # su Terminal: git --version
 
 # verificare il file di configurazione di git
-# su Terminal: git config --list 
+# su Terminal: 
+#   per l'utente:      git config --global --list  
+#   per il progetto:   git config --local --list 
+#   per il PC:         git config --system --list 
+
 
 
 # collegare Rstudio a Github
