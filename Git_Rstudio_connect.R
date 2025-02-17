@@ -20,3 +20,9 @@ gitcreds::gitcreds_set()
 
 # Per collegare un progetto Rstudio già esistente a un nuovo appena creato repository Github:
 # https://www.carlosivanrodriguez.com/guides/workflow/connect-an-existing-rstudio-project-to-github/
+
+
+# Nel caso di problemi a mnemorizzare in modo permanente il PAT su Linux vedere:
+# https://usethis.r-lib.org/articles/git-credentials.html
+usethis::edit_r_environ()
+# e inserire il PAT come specificato nel link sopra specificato
