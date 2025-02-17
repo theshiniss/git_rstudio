@@ -1,4 +1,6 @@
-## guarda questo : https://gist.github.com/Z3tt/3dab3535007acf108391649766409421
+## guarda questo: https://gist.github.com/Z3tt/3dab3535007acf108391649766409421
+## su linux non funziona sempre la memorizzazione permanente delle credenziali con l'opzione https
+## quindi si può usare SSH, guarda qui: https://www.youtube.com/watch?v=_Bn78aor_N4
 
 # verificare se git e' installato
 # su Terminal: git --version
